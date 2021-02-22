@@ -1,3 +1,9 @@
-header {
-    
+.nav {
+    background-color: gray;
+}
+
+body {
+    border: solid red;
+    background-image: url(./pexels-pixabay-33045.jpg);
+    background-size: cover;
 }
