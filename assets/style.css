@@ -1,8 +1,23 @@
-.navbar navbar-expand-lg {
-    background-color: brown;
-}
-
 body {
     background-image: url(./pexels-pixabay-33045.jpg);
     background-size: cover;
+}
+.navbar {
+    background-color: brown;
+}
+
+.navbar-brand {
+    color: white;
+}
+
+.nav-link {
+    color: white;
+}
+
+.dropdown-menu {
+    color: white;
+}
+
+.form-control {
+    color: white;
 }
