@@ -1,3 +1,6 @@
+body {
+       background: cadetblue;
+}
 .navbar {
     background-color: brown;
 }
@@ -15,36 +18,40 @@
 }
 h1 {
     text-align: center;
-    color: green;
+    color: rgb(14, 56, 58);
+    font-size: 90px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 #story {
     float: right;
-    padding-left: 15px;
+    padding: 5px;
     background-color: green;
+    margin-block: 90px;
     max-width: 50%;
 }
 
 #product {
     float: right;
     padding: 15px;
+    background-color: green;
+    margin-block: 90px;
     max-width: 50%;
 }
 
 #about-me {
-    float: left;
+    float: center;
     padding: 15px;
-    background-color: blue;
-    max-width: 50%;
+    text-align: center;
+    font-size: 100px;
+    max-width: 40%;
+    border: red solid;
 }
 #work {
-    float: left;
+    float: center;
     text-align: center;
     color: green;
-    font-size: 200px;
-}
-
-body {
-    border: solid 5px red;
-    background: cadetblue;
+    font-size: 100px;
+    max-width: 30%;
+    border: black solid;
 }
