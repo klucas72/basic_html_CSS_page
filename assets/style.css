@@ -2,7 +2,7 @@ body {
        background: cadetblue;
 }
 .navbar {
-    background-color: brown;
+    background-color: rgb(14, 56, 58);
 }
 
 .navbar-brand {
@@ -27,7 +27,7 @@ h1 {
     float: right;
     padding: 5px;
     background-color: green;
-    margin-block: 90px;
+    margin-top: 30px;
     max-width: 50%;
 }
 
@@ -35,23 +35,25 @@ h1 {
     float: right;
     padding: 15px;
     background-color: green;
-    margin-block: 90px;
+    margin-top: 30px;
     max-width: 50%;
 }
 
 #about-me {
     float: center;
     padding: 15px;
-    text-align: center;
+    text-align: right;
+    color: rgb(14, 56, 58);
     font-size: 100px;
     max-width: 40%;
-    border: red solid;
+    border-right: solid rgb(14, 56, 58);
 }
+
 #work {
     float: center;
-    text-align: center;
-    color: green;
+    text-align: right;
+    color: rgb(14, 56, 58);
     font-size: 100px;
-    max-width: 30%;
-    border: black solid;
+    max-width: 40%;
+    padding-right: 15px;
 }
