@@ -2,6 +2,7 @@ body {
     background-image: url(./pexels-pixabay-33045.jpg);
     background-size: cover;
 }
+
 .navbar {
     background-color: brown;
 }
@@ -17,10 +18,34 @@ body {
 .dropdown-menu {
     color: white;
 }
-
-.about-me {
-    border: solid green 8px;
-    background-color: green;
-    opacity: 0.1;
+h1 {
+    text-align: center;
+    color: green;
 }
 
+#story {
+    float: right;
+    padding-left: 15px;
+    background-color: green;
+    max-width: 50%;
+}
+
+#product {
+    float: right;
+    padding: 15px;
+    background-color: white;
+    max-width: 50%;
+}
+
+#about-me {
+    float: left;
+    padding: 15px;
+    background-color: blue;
+    max-width: 50%;
+}
+#work {
+    /* float: left; */
+    text-align: center;
+    color: green;
+    font-size: 200px;
+}
