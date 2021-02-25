@@ -29,7 +29,10 @@ h1 {
     background-color: green;
     margin-top: 30px;
     max-width: 50%;
+    position: relative;
+    right: 50px;
 }
+
 #about-me {
     float: center;
     padding: 15px;
@@ -46,6 +49,8 @@ h1 {
     background-color: green;
     margin-top: 30px;
     max-width: 50%;
+    position: relative;
+    right: 50px;
 }
 
 
@@ -78,5 +83,5 @@ h1 {
     max-width: 50%;
     position: absolute;
     top: 780px;
-    right: 300px;
+    right: 330px;
 }
