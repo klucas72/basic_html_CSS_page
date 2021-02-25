@@ -26,11 +26,14 @@ h1 {
 #story {
     float: right;
     padding: 5px;
-    background-color: green;
+    /* background-color: green; */
     margin-top: 30px;
     max-width: 50%;
     position: relative;
     right: 50px;
+    bottom: 50px;
+    color: rgb(14, 56, 58);
+    font-size: 20px;
 }
 
 #about-me {
@@ -51,6 +54,8 @@ h1 {
     max-width: 50%;
     position: relative;
     right: 50px;
+    top: 100px;
+    left: 700px;
 }
 
 
@@ -62,6 +67,8 @@ h1 {
     max-width: 40%;
     padding-right: 15px;
     border-right: solid  rgb(14, 56, 58);
+    position: relative;
+    top: 100px;
 }
 #footer {
     float: center;
@@ -82,6 +89,6 @@ h1 {
     font-size: 33px;
     max-width: 50%;
     position: absolute;
-    top: 780px;
+    top: 900px;
     right: 330px;
 }
