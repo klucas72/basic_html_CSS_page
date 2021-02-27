@@ -47,18 +47,20 @@ h1 {
     border-right: solid rgb(14, 56, 58);
 }
 
-#product {
-    float: right;
+.product {
+    float: left;
     padding: 15px;
-    background-color: green;
-    margin-top: 30px;
-    max-width: 50%;
+    margin: 30px 30px 30px 30px;
+    border: solid red 1px;
     position: relative;
     right: 50px;
     top: 150px;
     left: 650px;
 }
 
+#examples {
+    
+}
 
 #work {
     float: center;
@@ -69,7 +71,7 @@ h1 {
     padding-right: 15px;
     border-right: solid  rgb(14, 56, 58);
     position: relative;
-    top: 100px;
+    top: 150px;
 }
 #footer {
     float: center;
@@ -79,7 +81,7 @@ h1 {
     max-width: 40%;
     padding-right: 15px;
     border-right: solid  rgb(14, 56, 58); 
-    margin-top: 200px;
+    margin-top: 400px;
 }
 
 #contact {
@@ -90,6 +92,6 @@ h1 {
     font-size: 33px;
     max-width: 50%;
     position: absolute;
-    top: 900px;
+    top: 975px;
     right: 330px;
 }
