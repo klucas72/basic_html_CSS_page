@@ -11,6 +11,8 @@
     
 ## Description
 * Basic Profile page consisting of only HTML and CSS
+
+![portfolio screenshot of basic html page.](./portfolio_screenshot.png "portfolio screenshot")
     
 ## Installation
 * no installation necessary.  Use modern web browser to access webpage.
